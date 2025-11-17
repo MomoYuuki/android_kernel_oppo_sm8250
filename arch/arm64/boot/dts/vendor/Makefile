@@ -12,5 +12,8 @@ subdir-y += 21619
 subdir-y += 21623
 subdir-y += 21733
 
+# OPPO Find X3
+subdir-y += 20061
+
 # OPPO Ace2
 subdir-y += 19161
